@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All alert frame win Tests">
+
+
+
+	
+	 
+
+	 <test name="All alerts frm win Tests">
+		<classes>
+			<class name="com.toolsqa.cukerunners.AlertsTest" />
+		</classes>
+	</test> 
+	
+
+
+</suite> <!-- Suite -->
+
